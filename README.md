@@ -2,13 +2,14 @@
 
 Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [Alura](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
 
-## Objetivo
+## Estrutura do Repositório
 
 
-## Escopo
+### Meus Links
 
 
-## Estrutura do Projeto
+👔 [Linkedin](https://www.linkedin.com/in/aureliowozhiak/)
 
+💻 [GitHub](https://github.com/aureliowozhiak)
 
-### Links Úteis
+👾 [Twitch](https://www.twitch.tv/aureliano1337)
