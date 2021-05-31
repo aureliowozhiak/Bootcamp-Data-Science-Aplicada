@@ -13,6 +13,8 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [01.4 - Análise de gráficos e criação de hipótese](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/7215e48cb5350cfbe32ab6c9f881569b0637c26e/notebooks/01.4%20-%20An%C3%A1lise%20de%20gr%C3%A1ficos%20e%20cria%C3%A7%C3%A3o%20de%20hip%C3%B3tese.ipynb)
  - [01.5 - Manipulação e interpretação de gráficos](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/9af26691dec986ea6ee6291c52dd10a9c9f33649/notebooks/01.5%20-%20Manipula%C3%A7%C3%A3o%20e%20interpreta%C3%A7%C3%A3o%20de%20gr%C3%A1ficos.ipynb)
  - [[PROJETO MÓDULO 01] - Análise Exploratória: Produção Hospitalar (SIH/SUS)](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/Projeto%20M%C3%B3dulo%2001%20-%20%20An%C3%A1lise%20Explorat%C3%B3ria%20Produ%C3%A7%C3%A3o%20Hospitalar%20(SIH-SUS).ipynb)
+ - [02.1 - Fontes externas, limpeza e manipulação de dados](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/0fb38aa8d1b19a6efe3f3d7a979f1e27bc219c68/notebooks/02.1%20-%20Fontes%20externas,%20limpeza%20e%20manipula%C3%A7%C3%A3o%20de%20dados.ipynb)
+ - [02.2 - Proporcionalidades e Searborn](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/ba908e4d9948c90dac6a26b6dc771f4e5d5d82df/notebooks/02.2%20-%20Proporcionalidades%20e%20Searborn.ipynb)
 
 ### Meus Links
 
