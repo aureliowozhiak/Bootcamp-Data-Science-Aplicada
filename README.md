@@ -15,6 +15,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [[PROJETO MÓDULO 01] - Análise Exploratória: Produção Hospitalar (SIH/SUS)](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/Projeto%20M%C3%B3dulo%2001%20-%20%20An%C3%A1lise%20Explorat%C3%B3ria%20Produ%C3%A7%C3%A3o%20Hospitalar%20(SIH-SUS).ipynb)
  - [02.1 - Fontes externas, limpeza e manipulação de dados](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/0fb38aa8d1b19a6efe3f3d7a979f1e27bc219c68/notebooks/02.1%20-%20Fontes%20externas,%20limpeza%20e%20manipula%C3%A7%C3%A3o%20de%20dados.ipynb)
  - [02.2 - Proporcionalidades e Searborn](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/ba908e4d9948c90dac6a26b6dc771f4e5d5d82df/notebooks/02.2%20-%20Proporcionalidades%20e%20Searborn.ipynb)
+ - [02.3 - Ticks, escalas e formatação de imagem](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/3911b8eb6f16032f3fa1683f2605a3f1ab11ea03/notebooks/02.3%20-%20Ticks,%20escalas%20e%20formata%C3%A7%C3%A3o%20de%20imagem.ipynb)
 
 ### Meus Links
 
