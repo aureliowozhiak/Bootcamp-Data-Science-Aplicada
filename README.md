@@ -17,6 +17,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [02.2 - Proporcionalidades e Searborn](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/ba908e4d9948c90dac6a26b6dc771f4e5d5d82df/notebooks/02.2%20-%20Proporcionalidades%20e%20Searborn.ipynb)
  - [02.3 - Ticks, escalas e formatação de imagem](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/3911b8eb6f16032f3fa1683f2605a3f1ab11ea03/notebooks/02.3%20-%20Ticks,%20escalas%20e%20formata%C3%A7%C3%A3o%20de%20imagem.ipynb)
  - [02.4 - Trabalhando com DateTime e Melt](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/307a7c13541e15c12ca82cf15f7cdec18f4a4b0b/notebooks/02.4%20-%20Trabalhando%20com%20DateTime%20e%20Melt.ipynb)
+ - [02.5 - Manipulando datas e gerando novas análises](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/bebb453de0278312069b49efb105d155f85fedb0/notebooks/02.5%20-%20Manipulando%20datas%20e%20gerando%20novas%20an%C3%A1lises.ipynb)
 
 ### Meus Links
 
