@@ -12,7 +12,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [01.3 - Manipulação de dados](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/4e1a56bad6060d12a404ec9ed735b5260365dc25/notebooks/01.3%20-%20Manipula%C3%A7%C3%A3o%20de%20dados.ipynb)
  - [01.4 - Análise de gráficos e criação de hipótese](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/7215e48cb5350cfbe32ab6c9f881569b0637c26e/notebooks/01.4%20-%20An%C3%A1lise%20de%20gr%C3%A1ficos%20e%20cria%C3%A7%C3%A3o%20de%20hip%C3%B3tese.ipynb)
  - [01.5 - Manipulação e interpretação de gráficos](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/9af26691dec986ea6ee6291c52dd10a9c9f33649/notebooks/01.5%20-%20Manipula%C3%A7%C3%A3o%20e%20interpreta%C3%A7%C3%A3o%20de%20gr%C3%A1ficos.ipynb)
- - [[PROJETO MÓDULO 01] - Análise Exploratória: Produção Hospitalar (SIH/SUS)](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/Projeto%20M%C3%B3dulo%2001%20-%20%20An%C3%A1lise%20Explorat%C3%B3ria%20Produ%C3%A7%C3%A3o%20Hospitalar%20(SIH-SUS).ipynb)
+ - 🏥 [[PROJETO MÓDULO 01] - Análise Exploratória: Produção Hospitalar (SIH/SUS)](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/Projeto%20M%C3%B3dulo%2001%20-%20%20An%C3%A1lise%20Explorat%C3%B3ria%20Produ%C3%A7%C3%A3o%20Hospitalar%20(SIH-SUS).ipynb)
 
 
 #### Módulo 02
@@ -21,7 +21,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [02.3 - Ticks, escalas e formatação de imagem](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/3911b8eb6f16032f3fa1683f2605a3f1ab11ea03/notebooks/02.3%20-%20Ticks,%20escalas%20e%20formata%C3%A7%C3%A3o%20de%20imagem.ipynb)
  - [02.4 - Trabalhando com DateTime e Melt](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/307a7c13541e15c12ca82cf15f7cdec18f4a4b0b/notebooks/02.4%20-%20Trabalhando%20com%20DateTime%20e%20Melt.ipynb)
  - [02.5 - Manipulando datas e gerando novas análises](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/bebb453de0278312069b49efb105d155f85fedb0/notebooks/02.5%20-%20Manipulando%20datas%20e%20gerando%20novas%20an%C3%A1lises.ipynb)
- - [[PROJETO MÓDULO 02] - Projeto: Vacinas Salvam Vidas](https://github.com/aureliowozhiak/Projeto_VacinasSalvamVidas)
+ - 💉 [[PROJETO MÓDULO 02] - Projeto: Vacinas Salvam Vidas](https://github.com/aureliowozhiak/Projeto_VacinasSalvamVidas)
 
 ### Meus Links
 
