@@ -23,6 +23,11 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
  - [02.5 - Manipulando datas e gerando novas análises](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/bebb453de0278312069b49efb105d155f85fedb0/notebooks/02.5%20-%20Manipulando%20datas%20e%20gerando%20novas%20an%C3%A1lises.ipynb)
  - 💉 [[PROJETO MÓDULO 02] - Projeto: Vacinas Salvam Vidas](https://github.com/aureliowozhiak/Projeto_VacinasSalvamVidas)
 
+
+#### Módulo 03
+- [03.1 - Entendendo a série temporal](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/705158c51961e63ef23ef7d484eba4a224a918ed/notebooks/03.1%20-%20Entendendo%20a%20s%C3%A9rie%20temporal.ipynb)
+- [03.2 - Primeiras previsões](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.2%20-%20Primeiras%20previs%C3%B5es.ipynb)
+
 ### Meus Links
 
 
