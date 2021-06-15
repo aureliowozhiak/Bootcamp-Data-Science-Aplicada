@@ -27,6 +27,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
 #### Módulo 03
 - [03.1 - Entendendo a série temporal](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/705158c51961e63ef23ef7d484eba4a224a918ed/notebooks/03.1%20-%20Entendendo%20a%20s%C3%A9rie%20temporal.ipynb)
 - [03.2 - Primeiras previsões](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.2%20-%20Primeiras%20previs%C3%B5es.ipynb)
+- [03.3 - Mudança de tendência](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.3%20-%20Mudan%C3%A7a%20de%20tend%C3%AAncia.ipynb)
 
 ### Meus Links
 
