@@ -30,6 +30,7 @@ Repositório para acompanhar e documentar o Bootcamp Data Science Aplicada da [A
 - [03.3 - Mudança de tendência](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.3%20-%20Mudan%C3%A7a%20de%20tend%C3%AAncia.ipynb)
 - [03.4 - Feriados e sazonalidade](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.4%20-%20Feriados%20e%20sazonalidade.ipynb)
 - [03.5 - Outliers e validação](https://github.com/aureliowozhiak/Bootcamp-Data-Science-Aplicada/blob/main/notebooks/03.5%20-%20Outliers%20e%20valida%C3%A7%C3%A3o.ipynb)
+- [[PROJETO MÓDULO 03] - Facebook Prophet e os casos de COVID-19](https://github.com/aureliowozhiak/facebook_prophet_covid19)
 
 ### Meus Links
 
